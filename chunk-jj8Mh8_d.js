@@ -1,0 +1,1 @@
+import{_ as E,jt as en}from"./chunk-DHqRw9Dj.js";import{I as N}from"./main-LVUZUKVN.js";function d(n,e){return N(n.pipe(en(()=>E(e))),{initialValue:e})}export{d as t};

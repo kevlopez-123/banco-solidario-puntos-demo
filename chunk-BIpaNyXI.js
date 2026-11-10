@@ -1,0 +1,1 @@
+var o={acumulacion:`Acumulación`,canje:`Canje`,compra:`Compra de puntos`,vencimiento:`Vencimiento`,ajuste:`Ajuste manual`};var e={activo:`Activo`,usado:`Usado`,vencido:`Vencido`};export{o as n,e as t};
